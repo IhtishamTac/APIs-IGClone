@@ -9,7 +9,7 @@
 
 # This is a Repo for IGClone APIs
 -
-    <img align="right" position="absolute" src="https://github.com/IhtishamTac/RepoImage/blob/main/Facegram/api.png">
+    <img align="right" width="30%" position="absolute" src="https://github.com/IhtishamTac/RepoImage/blob/main/Facegram/api.png">
 ## Endpoints
 - Login returns as an Example
  <img position="absolute" width="70%" src="https://github.com/IhtishamTac/RepoImage/blob/main/Facegram/Apipreview.png">
